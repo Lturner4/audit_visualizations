@@ -1,0 +1,102 @@
+﻿ACCOUNT_NO,NO_OF_RECS,GROSS_AMT_SUM,GST_SUM,PST_SUM,NET_SUM,ACCOUNT_NO1,CUST_NAME,ADDRESS,CREDIT_LIM
+,0,0.00,0.00,0.00,0.00,A001,Dan Ackroyd,Audenshaw                        125 New Street                   Montreal                         Quebec                           H2S 3H2,20000
+A123,9,7091.08,594.73,673.42,5822.93,A123,Mike Atsil,The Vetinary House               123 Dog Row                      Thunder Bay                      Ontario                          K3A 7G1,20000
+A128,6,5779.09,378.07,428.08,4972.94,A128,Ivan Aker,The Old House                    Ottawa                           Ontario                          P1D 8D4,10000
+,0,0.00,0.00,0.00,0.00,B001,Kim Basinger,Mesh House                       Fish Street                      Rouyn                            Quebec                           J5V 2A9,12000
+,0,0.00,0.00,0.00,0.00,B002,Richard Burton,Eagle Castle                     Leafy Lane                       Sudbury                          Ontario                          L3M 9S3,9000
+,0,0.00,0.00,0.00,0.00,B004,Jeff Bridges,Arrow Road North                 Lakeside                         Kenora                           Ontario                          N3R 2S1,20000
+B008,1,-431.00,-28.20,-31.93,-370.87,B008,Denise Bent,The Dance Studio                 Covent Garden                    Montreal                         Quebec                           H5S 3H2,20000
+B010,8,4408.15,288.39,326.53,3793.23,B010,Carter Bout,Removals Close                   No Fixed Abode Road              Toronto                          Ontario                          M2A 7D3,20000
+,0,0.00,0.00,0.00,0.00,B022,Ronnie Biggs,Gotaway Cottage                  Thunder Bay                      Ontario                          K3A 6F3,5000
+,0,0.00,0.00,0.00,0.00,C001,Tom Cruise,The Firm                         Gunnersbury                      Waskaganish                      Quebec                           G1A 6H5,25000
+,0,0.00,0.00,0.00,0.00,C003,John Candy,The Sweet Shop                   High Street                      Trois Rivieres                   Quebec                           J6V 3A1,15000
+,0,0.00,0.00,0.00,0.00,C004,Jamie Lee Curtis,Wanda Avenue                     Welham Green                     Montreal                         Quebec                           H4S 3H2,25000
+,0,0.00,0.00,0.00,0.00,C005,Kevin Costner,Water Way                        Wet Street                       Ottawa                           Ontario                          P1D 8D4,50000
+,0,0.00,0.00,0.00,0.00,C008,Wyn Chester,Gun Lane                         Sudbury                          Ontario                          L3M 9S8,35000
+C020,7,9164.90,599.58,678.87,7886.45,C020,Penny Cillin,The Doctors Surgery              Green Park                       Chibougamau                      Quebec                           G1A 1G3,15000
+,0,0.00,0.00,0.00,0.00,D002,Robert De Niro,The Ring                         Madison Square Garden            Orleans                          Ontario                          P4A 6D8,10000
+,0,0.00,0.00,0.00,0.00,D003,Sammy Davis Jnr,MGM Grand                        Rouyn                            Quebec                           J5V 2A7,30000
+D014,6,13909.22,1073.53,1215.54,11620.15,D014,William Ditt,"Builders, 2 The Lane             Lower Themdown                   Kenora                           Ontario                          N3R 2S7",25000
+,0,0.00,0.00,0.00,0.00,D018,Danny De Vito,Come Quick Taxis                 Waskaganish                      Quebec                           G1A 6H4,20000
+D025,12,10731.56,832.96,943.11,8955.49,D025,Nellie Dunn,Comeback Tommorrow               Neverland                        Thunder Bay                      Ontario                          K3A 7G5,15000
+,0,0.00,0.00,0.00,0.00,F001,Jodie Foster,The Water Mill                   Jack Hill                        Trois Rivieres                   Quebec                           J6V 2A9,25000
+,0,0.00,0.00,0.00,0.00,F002,Morgan Freeman,Bonehurst Road                   Redhill                          Toronto                          Ontario                          M1A 7D9,18000
+,0,0.00,0.00,0.00,0.00,F003,Douglas Fairbanks J,Universal Studios                Chicoutimi                       Quebec                           G2A 1A3,20000
+,0,0.00,0.00,0.00,0.00,F010,Polly Filla,10 The Gap                       Bath                             Sudbury                          Ontario                          L3M 9S7,10000
+,0,0.00,0.00,0.00,0.00,F053,Harrison Ford,Rue de Saint Michel              Ottowa                           Ontario                          P1D D8,25000
+F123,7,3445.74,356.25,403.40,2686.09,,,,0
+F128,6,5779.09,378.07,428.08,4972.94,F128,M Akem Fixit,Plumbers House                   Mendham                          Trois Rivieres                   Quebec                           J6V 2A8,10000
+F130,1,-431.00,-28.20,-31.93,-370.87,F130,Daisy Farmer,The Old Farmhouse                Lower Field                      Chibougamau                      Quebec                           G4A 3A3,10000
+,0,0.00,0.00,0.00,0.00,G001,Clark Gable,Tara                             Kenora                           Ontario                          N3R 2S5,20000
+G010,9,6753.69,441.84,500.27,5811.58,G010,Bill Gates,Microcomputers plc               Technology Park                  Ottawa                           Ontario                          P1D 8D7,15000
+G020,7,14298.79,935.44,1059.17,12304.18,G020,P Green,Painters Lane                    11 Wall Street                   Rouyn                            Quebec                           J5V 2A7,20000
+,0,0.00,0.00,0.00,0.00,H002,Bob Hopeful,Faraway Court                    Singapore Road                   Waskaganish                      Quebec                           G1A 6H3,35000
+,0,0.00,0.00,0.00,0.00,H003,Tom Hanks,Sea of Tranquility               Moon Street                      Trois Rivieres                   Quebec                           J6V 2A6,10000
+H014,8,15389.16,1006.77,1139.94,13242.45,H014,Hanson Brothers,The Rink                         Ice Hockey Street                Thunder Bay                      Ontario                          K3A 7G4,20000
+H025,12,10302.78,804.91,911.35,8586.52,H025,Luke Hair,Plum in the Mouth Close          The Old Manor                    Toronto                          Ontario                          M1A 7D8,20000
+K001,7,13542.45,825.89,935.14,11781.42,,,,0
+,0,0.00,0.00,0.00,0.00,K002,Nicole Kidman,Heathfield                       Hampstead                        Orleans                          Ontario                          P4A 6D7,8000
+,0,0.00,0.00,0.00,0.00,L020,Miles Long,Kangeroo Park                    Thunder Bay                      Ontario                          K3A 7G6,20000
+,0,0.00,0.00,0.00,0.00,M001,Robert Mitchum,The Bull Ring                    Chibougamau                      Quebec                           G6A 1G3,15000
+,0,0.00,0.00,0.00,0.00,M002,Dean Martin,Any Bar                          Any Place                        Ottawa                           Ontario                          P1D 8D5,25000
+,0,0.00,0.00,0.00,0.00,M003,Bill Murray,Sheet Street                     Ghost Town                       Sudbury                          Ontario                          L3M 9S6,20000
+,0,0.00,0.00,0.00,0.00,M004,Lee Marvin,No Name Court                    Wandering Star Road              Rouyn                            Quebec                           J5V 2A6,25000
+M010,8,5993.90,392.12,444.00,5157.78,,,,0
+M014,9,22771.03,1489.70,1686.74,19594.59,M014,Cary S Matic,The Style Council                Style House                      Orleans                          Ontario                          P4A 6D6,25000
+M020,5,5068.12,331.55,375.42,4361.15,,,,0
+M025,12,16254.36,1098.43,1243.74,13912.19,M025,A Meadow,Field Lane                       Little Village                   Chibougamau                      Quebec                           G4A 1G3,20000
+M123,7,11912.39,878.24,994.40,10039.75,M123,1 Moore,Strangeways                      Chicoutimi                       Quebec                           G2A 3G3,20000
+M128,4,4802.75,314.20,355.77,4132.78,M128,Gus Main,The Pipeworks                    Oilcombe                         Montreal                         Quebec                           H2S 3H7,10000
+M130,1,-44.45,-2.91,-3.29,-38.25,M130,Maurice Mynah,Beaulieu Car Museum              Beaulieu                         Kenora                           Ontario                          N3R 2S4,25000
+N001,1,3766.58,246.41,279.01,3241.16,,,,0
+,0,0.00,0.00,0.00,0.00,N003,Paul Newman,Charlestown Chiefs               Charlestown                      Ottawa                           Ontario                          P1D 8D3,20000
+N005,3,1631.69,106.74,120.87,1404.08,N005,K Non,Church Street                    Westminster                      Orleans                          Ontario                          P4A 6D5,5000
+,0,0.00,0.00,0.00,0.00,O007,James Bond,The Hilton Hotel                 Beach Avenue                     Trois Rivieres                   Quebec                           J6V 2A4,0
+,0,0.00,0.00,0.00,0.00,P001,Michelle Pfeiffer,The Tower                        BatWoman Close                   Orleans                          Ontario                          P4A 6D4,10000
+,0,0.00,0.00,0.00,0.00,P002,Richard Pryor,Colthrop Way                     Victoria                         Toronto                          Ontario                          M1A 7D6,30000
+,0,0.00,0.00,0.00,0.00,P004,Jason Patric,TCR                              Montreal                         Quebec                           H2S 3H6,30000
+,0,0.00,0.00,0.00,0.00,P005,Al Pacino,Rue de la Reine                  Avenue Charles de Gaulle         Chibougamau                      Quebec                           G2A 1H3,25000
+P006,2,2908.17,190.25,215.42,2502.50,P006,Phillippa Pail,The Old Dairy                    Mosley Street                    Chicoutimi                       Quebec                           G2A 1G3,5000
+P007,2,-2208.56,1.31,1.48,-2211.35,P007,Mandy Pumps,The Fire Brigade Building        Water Close                      Kenora                           Ontario                          N3R 2S3,10000
+P008,3,5224.51,341.79,387.01,4495.71,P008,Ern Payed,Bill Factors Lane                Carnival Street                  Rouyn                            Quebec                           J5V 2A5,10000
+P009,1,146.41,9.58,10.85,125.98,,,,0
+P010,6,5856.84,383.16,433.84,5039.84,,,,0
+,0,0.00,0.00,0.00,0.00,R001,Julia Roberts,Broad Street Mall                Hearst                           Ontario                          P3A 6D3,8000
+,0,0.00,0.00,0.00,0.00,R002,Tim Robbins,Player Close                     Durham Road                      Toronto                          Ontario                          M1A 7D2,10000
+,0,0.00,0.00,0.00,0.00,R003,Rene Russo,The Galleries                    Broadmead                        Trois Rivieres                   Quebec                           J6V 2A1,20000
+R005,2,14383.00,940.95,1065.41,12376.64,R005,N Rich,The Organic Fertiliser Co        Compost Lane                     Sudbury                          Ontario                          L3M 9S4,25000
+R007,4,550.29,36.00,40.77,473.52,R007,A Raid,Castle Street                    Montreal                         Quebec                           H2S 3H5,5000
+R008,2,2301.43,150.56,170.47,1980.40,,,,0
+R010,3,511.70,33.47,37.90,440.33,R010,Winona Ryder,Roman Way                        Coleshill                        Orleans                          Ontario                          P4A 6D3,25000
+R011,2,1718.33,112.41,127.29,1478.63,R011,John Richmond,St Georges Walk                  Chibougamau                      Quebec                           G2A 4G3,10000
+R020,8,9695.40,634.28,718.17,8342.95,R020,A Round,The Circle                       Stonehenge                       Waskaganish                      Quebec                           G1A 6H2,15000
+R025,12,30220.15,1992.40,2255.95,25971.80,R025,G.I. Rate,Spinning Road                    Highgate                         Kenora                           Ontario                          N3R 2S2,20000
+,0,0.00,0.00,0.00,0.00,S001,Frank Sinatra,Broadway                         Toronto                          Ontario                          M1A 7D1,20000
+,0,0.00,0.00,0.00,0.00,S003,Sylvester Stallone,Rocky Road                       The Ring                         Thunder Bay                      Ontario                          K3A 7G3,6000
+,0,0.00,0.00,0.00,0.00,S004,Charlie Sheen,Cromwell Road                    Bayswater                        Ottawa                           Ontario                          P1D 8D2,25000
+,0,0.00,0.00,0.00,0.00,S010,Truck Stop Ltd,The Pop In Cafe                  Barley Mow Passage               Trois Rivieres                   Quebec                           J6V 2A2,15000
+,0,0.00,0.00,0.00,0.00,S025,O J Simpson,The Court House                  Glove Lane                       Chibougamau                      Quebec                           G2A 7G7,35000
+,0,0.00,0.00,0.00,0.00,T001,John Travolta,Main Street                      Richmond                         Rouyn                            Quebec                           J5V 2A4,20000
+T003,1,3543.54,231.82,262.48,3049.24,T003,Jackie Tupp,The Garage                       Chokingham                       Toronto                          Ontario                          M1A 7D3,10000
+T004,1,39.94,2.61,2.96,34.37,T004,Dick Tate,Secretarial Services Ltd         Type Road                        Chicoutimi                       Quebec                           G2A 7G4,20000
+T005,2,405.79,26.55,30.06,349.18,T005,Honor Toze,The Ballet School                Sundance Village                 Sudbury                          Ontario                          L3M 9S2,5000
+T006,3,7465.42,488.39,552.99,6424.04,T006,Pole Tacks,2 Much Street                    Timmins                          Ontario                          P2A 6D1,20000
+T007,2,-1679.69,0.35,0.39,-1680.43,T007,Chimps Teaparty,House of Commons                 Westminster                      Toronto                          Ontario                          M1A 7D5,10000
+T008,2,9348.34,611.58,692.47,8044.29,,,,0
+T009,1,211.26,13.82,15.65,181.79,T009,Tim Table,Railways Board                   Orleans                          Ontario                          P4A 6D3,5000
+T010,10,3503.46,229.19,259.51,3014.76,T010,Andrew Truffles,Split Ends                       Coles Forest                     Orleans                          Ontario                          P4A 6D1,35000
+,0,0.00,0.00,0.00,0.00,T011,Elizabeth Taylor,Piggott Way                      Chicoutimi                       Quebec                           G2A 7G5,16000
+,0,0.00,0.00,0.00,0.00,U009,Phil M Upp,The Garage                       Chokingham                       Rouyn                            Quebec                           J5V 2A2,25000
+,0,0.00,0.00,0.00,0.00,V001,Darth Vader,1 The Dark Side                  Hearst                           Ontario                          P3A 6D2,20000
+,0,0.00,0.00,0.00,0.00,W002,Denzil Washington,Ricochet Tower                   Crimson Street                   Montreal                         Quebec                           H2S 3H3,75000
+,0,0.00,0.00,0.00,0.00,W004,Sky Ward,Hot Spots Travel                 The Promenade                    Sudbury                          Ontario                          L3M 9S1,13000
+W005,2,14395.34,941.76,1066.32,12387.26,,,,0
+,0,0.00,0.00,0.00,0.00,W006,John Wayne,Green Fields Stables             Horseferry Road                  Chicoutimi                       Quebec                           G2A 7G4,5000
+W007,4,436.47,28.56,32.33,375.58,,,,0
+W008,1,1787.98,116.97,132.44,1538.57,,,,0
+,0,0.00,0.00,0.00,0.00,W009,James Woods,Digstown                         Oliver County                    Waskaganish                      Quebec                           G1A 6H1,10000
+,0,0.00,0.00,0.00,0.00,W010,Robin Williams,The BirdCage                     Rouyn                            Quebec                           J5V 2A1,10000
+W011,1,1810.29,118.43,134.10,1557.76,,,,0
+W020,8,17488.83,1144.12,1295.47,15049.24,,,,0
+W025,11,45736.81,2996.25,3392.58,39347.98,W025,World Wide Wait,Cobweb Park                      Http Way                         Toronto                          Ontario                          M1A 7D4,20000
+Z001,1,1563.61,102.29,115.82,1345.50,Z001,Z Inc,Wall Street                      Montreal                         Quebec                           H2S 3H1,20000
